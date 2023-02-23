@@ -1,0 +1,12 @@
+{
+  "name": "Classic",
+  "author": "srisys",
+  "authorUrl": "https://srisys.com",
+  "builder": [
+    "legacy",
+    "grapesjsbuilder"
+  ],
+  "features": [
+    "email"
+  ]
+}

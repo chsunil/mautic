@@ -1,0 +1,12 @@
+{
+  "name": "Sports",
+  "author": "srisys",
+  "authorUrl": "https://srisys.com",
+  "builder": [
+    "legacy",
+    "grapesjsbuilder"
+  ],
+  "features": [
+    "email"
+  ]
+}
